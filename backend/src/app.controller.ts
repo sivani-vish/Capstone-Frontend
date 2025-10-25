@@ -14,6 +14,6 @@ export class AppController {
 
   @Get('health')
   getHealth(): HealthResponse {
-    return { status: 'ok', author: 'Nishant', time: new Date().toISOString() };
+    return { status: 'ok', author: 'Nishant MAIN', time: new Date().toISOString() };
   }
 }

@@ -55,4 +55,4 @@ docker-compose.override.yml
 
 ### Misc ###
 bower_components/
-design_sketches/
+/design_sketches

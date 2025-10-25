@@ -1,0 +1,6 @@
+{
+  "baseUrl": "https://blackboard.sc.edu/learn/api/public/v1",
+  "authUrl": "https://blackboard.sc.edu/learn/api/public/v1/oauth2/token",
+  "clientId": "",
+  "clientSecret": ""
+}
